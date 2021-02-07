@@ -11,5 +11,5 @@ Read some of the reviews and teardown available on the internet such as [**The V
 The [**official Raspberry Pi Foundation for the RPi400 is here**](https://www.raspberrypi.org/products/raspberry-pi-400/)...
 
 <p align="left">
-<img src="images/RPi400TheVergeReview.png" width="300" />  
+<img src="images/RPi400TheVergeReview.png" width="300" height="300"/>  
 <br>
