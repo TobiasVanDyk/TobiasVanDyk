@@ -1,7 +1,7 @@
 ### The Best Computer Product of the Century is the Raspberry Pi 400
 *I you have read about it and are thinking of buying it do not wait - just buy it!* 
 <p align="left">
-<img src="images/Image3..jpg" width="380" />
+<img src="images/Image3.jpg" width="380" />
 </p>
 <p align="left">
 <img src="images/Image6..jpg" width="380" />
