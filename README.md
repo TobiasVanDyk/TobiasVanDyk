@@ -7,7 +7,7 @@
 
 Read some of the reviews and teardowns available on the internet such as [**The Verge**](https://www.theverge.com/2020/11/2/21542278/raspberry-pi-400-keyboard-computer-arm-release-date-news-features) and [**Jeff Geerling**](https://www.jeffgeerling.com/blog/2020/raspberry-pi-400-teardown-and-review)
 
-The [**official Raspberry Pi Foundation for the RPi400 is here**](https://www.raspberrypi.org/products/raspberry-pi-400/)...
+The [**official Raspberry Pi Home Page for the RPi400 is here**](https://www.raspberrypi.org/products/raspberry-pi-400/)...
 
 <p align="left">
 <img src="images/RPi400TheVergeReview.png" width="30" height="30"/>  
