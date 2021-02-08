@@ -4,7 +4,7 @@
 <img src="images/RPi400back.png" width="380" />
 </p>
 <p align="left">
-<img src="images/Image6..jpg" width="380" />
+<img src="images/Image6.jpg" width="380" />
 </p>
 
 Read some of the reviews and teardowns available on the internet such as [**Jeff Geerling**](https://www.jeffgeerling.com/blog/2020/raspberry-pi-400-teardown-and-review) and [**The Verge**](https://www.theverge.com/2020/11/2/21542278/raspberry-pi-400-keyboard-computer-arm-release-date-news-features) <img src="images/RPi400TheVergeReview.png" width="20" height="20"/>  
