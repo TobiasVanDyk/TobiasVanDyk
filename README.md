@@ -8,6 +8,6 @@
 
 <img src="images/image1.jpeg" width="20" height="20"/>  <img src="images/image4.jpeg" width="20" height="20"/> Also [**visit the official Raspberry Pi Home Page for the RPi400**](https://www.raspberrypi.org/products/raspberry-pi-400/) or the [**RPi400 MagPi Magazine Issue 101**](https://magpi.raspberrypi.org/issues/101).  
 <p align="left">
-<img src="images/Pi400F.png" width="350" />
-<img src="images/Pi400B.png" width="350" />  
+<img src="images/Back.png" width="350" />
+<img src="images/Front.png" width="350" />  
 </p>
