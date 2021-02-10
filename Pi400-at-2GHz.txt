@@ -1,4 +1,4 @@
-Add to /boot.config.txt:
+Add to /boot/config.txt:
 
 force_turbo=1
 over_voltage=6
