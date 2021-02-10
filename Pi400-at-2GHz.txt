@@ -1,6 +1,8 @@
 Add to /boot/config.txt:
 
+Only add this if the two lines below fails to overclock
 #force_turbo=1
+
 over_voltage=6
 arm_freq=2000
 
@@ -9,3 +11,7 @@ Check the CPU frequency:
 cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq
 
 Divide the result by 1000 to find the value in MHz.
+Note: CPU/GPU core voltage adjustment. [-16,8] equates to [0.8V,1.4V] with 0.025V steps; in other words, specifying -16 will give 0.8V as the GPU/core voltage, and specifying 8 will give 1.4V. The default value is 0 (1.2V). 
+
+Values above 6 are only allowed when force_turbo or current_limit_override are specified; this sets the warranty bit.
+https://www.raspberrypi.org/documentation/configuration/config-txt/overclocking.md
