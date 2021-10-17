@@ -1,8 +1,8 @@
 ### The Raspberry Pi 400 
 *If you have read about it and are thinking of buying it do not wait - just buy it!* 
 <p align="left">
-<img src="images/Image6.jpg" width="420" />
-<img src="images/FB.png" width="300" />  
+<img src="images/Image6.jpg" width="320" />
+<img src="images/FB.png" width="200" />  
 </p>
 
 <img src="images/RPi400TheVergeReview.png" width="16" height="16"/> Read some of the reviews and teardowns available on the internet such as [**Wired UK The Raspberry Pi 400 reinvents the microcomputer for 2020**](https://www.wired.co.uk/article/raspberry-pi-400-review), [**Jeff Geerling's**](https://www.jeffgeerling.com/blog/2020/raspberry-pi-400-teardown-and-review) and [**The Verge**](https://www.theverge.com/2020/11/2/21542278/raspberry-pi-400-keyboard-computer-arm-release-date-news-features) Reviews, and [**Elektor's An In-Depth Look at the Raspberry Pi 400**](https://www.elektormagazine.com/news/raspberry-pi-400-review). Also see the James Chambers [**Raspberry Pi 400 Overclocking and NVMe SSD Setup Guide**](https://jamesachambers.com/raspberry-pi-400-overclocking-ssd-setup-guide/).
