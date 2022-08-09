@@ -1,6 +1,7 @@
 ### The Raspberry Pi 400 
 ```
-*Probably the most usable and affordable GPIO-enabled personal computer ever made. If you have read about it and are thinking of buying it do not wait - just buy it! (while stocks last..)*
+Probably the most usable and affordable GPIO-enabled personal computer ever made. 
+If you have read about it and are thinking of buying it do not wait - just buy it! (while stocks last..)
 ```
 <p align="left">
 <img src="images/Image7.jpg" height="180" />
