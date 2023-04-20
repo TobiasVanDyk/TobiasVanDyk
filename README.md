@@ -1,5 +1,5 @@
 ### The Raspberry Pi 400 
-*Probably the most usable and affordable GPIO-enabled personal computer ever made. If you have read about it and are thinking of buying it do not wait - just buy it! (while [stocks](https://www.pishop.co.za/store/raspberry-pi-400-with-us-keyboard) last..)*
+*Probably the most usable and affordable GPIO-enabled personal computer ever made. If you have read about it and are thinking of buying it do not wait - just buy it! (while [stocks](https://www.pishop.co.za/store/raspberry-pi-400/official-raspberry-pi-400-desktop-kit-with-official-us-keyboard-official-mouse-official-eu-power-supply-official-hdmi-cable-and-raspberry-pi-beginners-guide) last..)*
 <p align="left">
 <img src="images/Image7.jpg" height="140" />
 <img src="images/Image9.jpeg" height="140" />
