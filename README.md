@@ -5,6 +5,6 @@
 
 <img src="images/macro.gif" width="16" height="16"/> Use a [**TouchLCDMacropad with linked macros**](https://github.com/TobiasVanDyk/Pico-MCU-from-Raspberry-Pi/tree/main/TouchMacroPadPico) to simulate any type of work and fool the heuristics-based work-simulation-detection algorithms.
 
-Also works with all the major product-lines from [**Raspberry Pi Holdings PLC RPI**](https://www.londonstockexchange.com/stock/RPI/raspberry-pi-holdings-plc/company-page) - just buy it - or [**Raspberry Pi**](https://www.raspberrypi.com/) and [**Raspberry Pi Foundation**](https://www.raspberrypi.org/).
+Also works with all the major product-lines from [**Raspberry Pi Holdings PLC RPI**](https://www.londonstockexchange.com/stock/RPI/raspberry-pi-holdings-plc/company-page) - just buy it even if there are head and shoulders - or [**Raspberry Pi**](https://www.raspberrypi.com/) and [**Raspberry Pi Foundation**](https://www.raspberrypi.org/).
 
 
