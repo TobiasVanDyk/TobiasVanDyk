@@ -6,11 +6,11 @@
 <img src="1million-macros.jpg" width="16" height="16"/> Use a [**TouchLCDMacropad with more than one million macros which can be expanded by linking**](https://github.com/TobiasVanDyk/Pico-MCU-from-Raspberry-Pi/tree/main/TouchMacroPadPico) to simulate (almost) any type of work and bypass software-based-automation-tools detection algorithms such as [**AutoIt**](https://www.autoitscript.com/site/) and [**Power-Automate**](https://www.microsoft.com/en-us/power-platform/products/power-automate).
 
 <p align="left">
-<img src="images/pad01.jpg" height="150" /> 
-<img src="images/pad04.jpg" height="150" /> 
-<img src="images/pad05.jpg" height="150" /> 
-<img src="images/TypeC3.png" height="150" />   
-<img src="macro.gif" height="150" /> 
+<img src="images/pad01.jpg" height="100" /> 
+<img src="images/pad04.jpg" height="100" /> 
+<img src="images/pad05.jpg" height="100" /> 
+<img src="images/TypeC3.png" height="100" />   
+<img src="images/macro.gif" height="100" /> 
 </p>
 
 Also works with all the major product-lines from [**Raspberry Pi Holdings PLC RPI**](https://www.londonstockexchange.com/stock/RPI/raspberry-pi-holdings-plc/company-page), [**Raspberry Pi**](https://www.raspberrypi.com/) and [**Raspberry Pi Foundation**](https://www.raspberrypi.org/).
