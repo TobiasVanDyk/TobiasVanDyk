@@ -7,6 +7,7 @@
 
 <p align="left">
 <img src="images/labels1a.jpg" height="50" />
+<img src="images/Edit12.jpg" height="50" />
 <img src="images/pad01.jpg" height="50" />
 <img src="images/pad04.jpg" height="50" />
 <img src="images/pad05.jpg" height="50" />
