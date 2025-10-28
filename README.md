@@ -13,6 +13,7 @@
 <img src="images/pad05.jpg" height="50" />
 <img src="images/nKeys106.jpg" height="50" />
 <img src="images/TypeC3.png" height="50" />
+<img src="images/pico35inside1.jpg" height="50" />  
 <img src="images/macro.gif" height="50" />
 </p>
 
