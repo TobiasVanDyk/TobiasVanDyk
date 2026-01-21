@@ -7,9 +7,9 @@
 
 <p align="left">
 <img src="images/labels1a.jpg" height="45" />
-<img src="images/Win09.png" height="45" />
-<img src="images/Win10.png" height="45" />  
-<img src="images/Win11.png" height="45" />
+<img src="images/Win21.png" height="45" />
+<img src="images/Win22.png" height="45" />  
+<img src="images/Win23.png" height="45" />
 <img src="images/Edit12.jpg" height="45" />
 <img src="images/pad01.jpg" height="45" />
 <img src="images/pad04.jpg" height="45" />
