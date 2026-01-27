@@ -7,10 +7,10 @@
 
 <p align="left">
 <img src="images/labels1a.jpg" height="42" />
-<img src="images/Win25.png" height="42" />
-<img src="images/Win41.png" height="42" />  
-<img src="images/Win42.png" height="42" />
-<img src="images/Win43.png" height="42" />  
+<img src="images/Win100.png" height="42" />
+<img src="images/Win101.png" height="42" />  
+<img src="images/Win104.png" height="42" />
+<img src="images/Win105.png" height="42" />  
 <img src="images/Edit12.jpg" height="42" />
 <img src="images/pad01.jpg" height="42" />
 <img src="images/pad04.jpg" height="42" />
