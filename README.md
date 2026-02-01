@@ -6,19 +6,20 @@
 <img src="1million-macros.jpg" width="16" height="16"/> Use a [**TouchLCDMacropad with more than one million macros - which can be even further expanded through linked macro-lists**](https://github.com/TobiasVanDyk/Pico-MCU-from-Raspberry-Pi/tree/main/TouchMacroPadPico) - to simulate (almost) any type of PC-based work, and being a trusted hardware device, also bypass detection algorithms for software-based-automation-tools such as [**AutoIt**](https://www.autoitscript.com/site/) and [**Power-Automate**](https://www.microsoft.com/en-us/power-platform/products/power-automate). A PC Windows-based configuration tool for the Pico Touch LCD is also available. Pressing keys on the PC app can press the same key on the TouchLCD, which then through USB HID, send the keypress back to the PC.
 
 <p align="left">
-<img src="images/labels1a.jpg" height="42" />
-<img src="images/Win10-1.png" height="42" />
-<img src="images/Win10-2.png" height="42" />  
-<img src="images/Win10-3.png" height="42" />
-<img src="images/Win106.png" height="42" />  
-<img src="images/Edit12.jpg" height="42" />
-<img src="images/pad01.jpg" height="42" />
-<img src="images/pad04.jpg" height="42" />
-<img src="images/pad05.jpg" height="42" />
-<img src="images/nKeys106.jpg" height="42" />
-<img src="images/TypeC3.png" height="42" />
-<img src="images/pico35inside1.jpg" height="42" />  
-<img src="images/macro.gif" height="42" />
+<img src="images/labels1a.jpg" height="40" />
+<img src="images/Win10-1.png" height="40" />
+<img src="images/Win10-2.png" height="40" />  
+<img src="images/Win10-3.png" height="40" />
+<img src="images/Win106.png" height="40" />  
+<img src="images/Win11-11.png" height="40" />    
+<img src="images/Edit12.jpg" height="40" />
+<img src="images/pad01.jpg" height="40" />
+<img src="images/pad04.jpg" height="40" />
+<img src="images/pad05.jpg" height="40" />
+<img src="images/nKeys106.jpg" height="40" />
+<img src="images/TypeC3.png" height="40" />
+<img src="images/pico35inside1.jpg" height="40" />  
+<img src="images/macro.gif" height="40" />
 </p>
 
 Also works with, or use, all of the **non-banned**  and [**banned**](https://github.com/TobiasVanDyk/TobiasVanDyk/blob/main/images/pi-banned.jpg), major product-lines from [**Raspberry Pi Holdings PLC RPI**](https://www.londonstockexchange.com/stock/RPI/raspberry-pi-holdings-plc/company-page), [**Raspberry Pi**](https://www.raspberrypi.com/) and [**Raspberry Pi Foundation**](https://www.raspberrypi.org/).
