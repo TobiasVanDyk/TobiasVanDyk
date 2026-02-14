@@ -7,7 +7,7 @@
 
 <p align="left">
 <img src="images/labels1a.jpg" height="40" />
-<img src="images/Win10-1.png" height="40" />
+<img src="images/Win10-77.png" height="40" />
 <img src="images/Win10-2.png" height="40" />  
 <img src="images/Win10-3.png" height="40" />
 <img src="images/PicoMacropadpCApp.gif" height="40" />  
