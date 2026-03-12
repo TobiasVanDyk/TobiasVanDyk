@@ -5,8 +5,6 @@
 
 <img src="1million-macros.jpg" width="16" height="16"/> Use a [**TouchLCDMacropad with more than one million macros - which can be even further expanded through linked macro-lists**](https://github.com/TobiasVanDyk/Pico-MCU-from-Raspberry-Pi/tree/main/TouchMacroPadPico) - to simulate (almost) any type of PC-based work, and being a trusted hardware device, also bypass detection algorithms for software-based-automation-tools such as [**AutoIt**](https://www.autoitscript.com/site/) and [**Power-Automate**](https://www.microsoft.com/en-us/power-platform/products/power-automate). A Visual Studio C# configuration and control tool for the Pico Touch LCD is also available, as shown below in images 2 through 6.
 
-Note that all commercial and open-source macropads that I have examined use a configuration file (or files), to store macros and or chained macros, compiled or plaintext, definitions and scripts. This macropad use individual macro files and more importantly symbolic link files, which offers customisation options that other macropads cannot easily duplicate with giant or tiny, JSON or XML files.
-
 <p align="left">
 <img src="images/labels1a.jpg" height="40" />
 <img src="images/Win10-95.png" height="40" />
