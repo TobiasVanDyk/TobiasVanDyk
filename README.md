@@ -18,7 +18,7 @@
 <img src="images/pad05.jpg" height="40" />
 <img src="images/nKeys106.jpg" height="40" />
 <img src="images/TypeC3.png" height="40" />
-<img src="images/pico35inside1.jpg" height="40" />  
+<img src="images/Pic10.png" height="40" />  
 <img src="images/macro.gif" height="40" />
 </p>
 
