@@ -6,13 +6,14 @@
 <img src="1million-macros.jpg" width="16" height="16"/> Use a file-and-folder-based [**TouchLCDMacropad with more than one million macros - which can be even further expanded through linked macro-lists**](https://github.com/TobiasVanDyk/Pico-MCU-from-Raspberry-Pi/tree/main/TouchMacroPadPico) - to simulate (almost) any type of PC-based work, and being a trusted hardware device, also bypass detection algorithms for software-based-automation-tools such as [**AutoIt**](https://www.autoitscript.com/site/) and [**Power-Automate**](https://www.microsoft.com/en-us/power-platform/products/power-automate). A Visual Studio C# mimic of the Touch macropad, with additional [**configuration**](https://github.com/TobiasVanDyk/RPi-Pico1-Pico2-Applications/blob/main/TouchMacroPadPico/Serial2PicoApp/Exercise2.pdf) and [**control functions**](https://github.com/TobiasVanDyk/RPi-Pico1-Pico2-Applications/blob/main/TouchMacroPadPico/Serial2PicoApp/Exercise1.pdf), is also in [**development**](https://github.com/TobiasVanDyk/RPi-Pico1-Pico2-Applications/tree/main/TouchMacroPadPico/Serial2PicoApp), as shown below in images 2 through 6. The PC application showcases the Pico MacroPad’s [**nKeys multiple indirection capability**](https://github.com/TobiasVanDyk/RPi-Pico1-Pico2-Applications/blob/main/TouchMacroPadPico/Serial2PicoApp/Five-Macro-Types-with-Label-Changes.pdf) via its automatic application-switching control. A wide range of plug-in modules will be added in the future, and the first three of these, namely a macropad and PC App set of functions to control and configure CircuitPython devices, multiple I²C RGB rotary encoders, and three types of Microchip I²C GPIO expanders, have been completed.
 
 <p align="left">
+<img src="images/Pico2A42.png" height="38" />  
 <img src="images/labels1a.jpg" height="38" />
 <img src="images/Win10-95.png" height="38" />
 <img src="images/Win10-2.png" height="38" />  
 <img src="images/Win10-3.png" height="38" />
 <img src="images/PicoMacropadpCApp.gif" height="38" />  
 <img src="images/Win11-15.png" height="38" />    
-<img src="images/Pico2A42.png" height="38" />
+<img src="images/DoubleTwist.png" height="38" />
 <img src="images/Pic11.png" height="38" />
 <img src="images/pad04.jpg" height="38" />
 <img src="images/pad05.jpg" height="38" />
