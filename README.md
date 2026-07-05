@@ -13,7 +13,6 @@
 <img src="images/Win10-3.png" height="38" />
 <img src="images/PicoMacropadpCApp.gif" height="38" />  
 <img src="images/Win11-15.png" height="38" />    
-<img src="images/DoubleTwist.png" height="38" />
 <img src="images/Pic11.png" height="38" />
 <img src="images/pad04.jpg" height="38" />
 <img src="images/pad05.jpg" height="38" />
