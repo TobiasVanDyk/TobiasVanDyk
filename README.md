@@ -17,7 +17,7 @@
 
 <details>
   <summary><h3><strong>Click here for more information</strong></h3></summary>
-  
+
 <img src="1million-macros.jpg" width="16" height="16"/> Use a file-and-folder-based [**TouchLCDMacropad with more than one million macros - which can be even further expanded through linked macro-lists**](https://github.com/TobiasVanDyk/PicoTouchMacroPad) - to simulate (almost) any type of PC-based work, and being a trusted hardware device, also bypass detection algorithms for software-based-automation-tools such as [**AutoIt**](https://www.autoitscript.com/site/) and [**Power-Automate**](https://www.microsoft.com/en-us/power-platform/products/power-automate). A Visual Studio C# mimic of the Touch macropad, with additional [**configuration**](https://github.com/TobiasVanDyk/PicoTouchMacroPad/tree/main/Serial2PicoApp/Exercise2.pdf) and [**control functions**](https://github.com/TobiasVanDyk/PicoTouchMacroPad/tree/main/Serial2PicoApp/Exercise1.pdf), is also in [**development**](https://github.com/TobiasVanDyk/PicoTouchMacroPad/tree/main/Serial2PicoApp), as shown below in images 4 to 7. The PC application showcases the Pico MacroPad’s [**nKeys multiple indirection capability**](https://github.com/TobiasVanDyk/PicoTouchMacroPad/tree/main/Serial2PicoApp/Five-Macro-Types-with-Label-Changes.pdf) via its automatic application-switching control. A wide range of plug-in modules will be added in the future, and the first three of these, namely a macropad and PC App set of functions to control and configure CircuitPython devices, multiple I²C RGB rotary encoders, and three types of Microchip I²C GPIO expanders, have been completed.<br> 
 
 <img src="images/3pads6.jpg" height="25"/> <img src="images/3pads5.jpg" height="25"/> <img src="images/3pads3.jpg" height="25"/> <img src="images/3pads2.jpg" height="25"/> <img src="images/3pads1.jpg" height="25"/> **3 Pad replacement for previous 5 Pads**: For improved usability the small five Pad keys have been replaced with three larger Pad keys. Access to the previous nKeys Show mode and Mouse mode is now via the Symbol mode with Pads [n] and [m] in the macropad - direct access is preserved in the PC App. Open the KeyBrd Editor from the macropad with [Cfg][Opt][o] and in the PC App press [K] in Layout L2. *Use Serial2Pico79-NET10,zip with 3 Pad firmware and Serial2Pico77-NET10,zip with 5 Pad firmware.*
@@ -27,7 +27,7 @@
 <img src="images/RP2350Plus.jpg" height="20"/> Similarly, a number of [**Waveshare RP2350 Plus with steppping A4 16 MB Flash development boards**](https://www.waveshare.com/rp2350-plus.htm?sku=29761), have been obtained, again directly from Waveshare at a cost similar to what the *Raspberry Pi Pico 2 with unknown stepping*, are being sold for locally. As expected, it is a direct improved replacement for the Pico 2 when used with the 3.5 inch resistive touch IPS LCD. The 16MB NOR Flash is made by Puya Semiconductor PY25Q128HA.
 
 <p align="left">
-<img src="images/Pico2A42.png" height="38" />  
+<img src="images/Pico2A42.jpg" height="38" />  
 <img src="images/labels1a.jpg" height="38" />
 <img src="images/Win10-95.png" height="38" />
 <img src="images/Win10-2.png" height="38" />  
@@ -46,3 +46,11 @@
 Also works with, or use, all of the **non-banned**  and [**banned**](https://github.com/TobiasVanDyk/TobiasVanDyk/blob/main/images/pi-banned.jpg), major product-lines from [**Raspberry Pi Holdings PLC RPI**](https://www.londonstockexchange.com/stock/RPI/raspberry-pi-holdings-plc/company-page), [**Raspberry Pi**](https://www.raspberrypi.com/) and [**Raspberry Pi Foundation**](https://www.raspberrypi.org/).
 
 </details>
+
+<p align="left">
+<img src="images/3pads6.jpg" height="48" />  
+<img src="images/3pads5.jpg" height="48" />
+<img src="images/3pads3.jpg" height="48" />
+<img src="images/Pico2A42.jpg" height="48" />  
+<img src="images/RP2350BPic3.jpg" height="48" />
+</p>  
