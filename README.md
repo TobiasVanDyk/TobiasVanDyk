@@ -14,9 +14,8 @@
 
 <img src="images/Fired.png" width="16" height="16"/> *US banking giant Wells Fargo has sacked a number of employees following claims that staff were faking keyboard activity to fool the company into thinking they were working at home when they were not.*
 [**As reported here 14 June 2024.**](https://www.bbc.com/news/articles/cjll01220yeo)
-
 <details>
-  <summary><h3><strong>Click here to show more info</strong></h3></summary>
+  <summary><h2><strong>Click here to show more info</strong></h2></summary>
   
 <img src="1million-macros.jpg" width="16" height="16"/> Use a file-and-folder-based [**TouchLCDMacropad with more than one million macros - which can be even further expanded through linked macro-lists**](https://github.com/TobiasVanDyk/PicoTouchMacroPad) - to simulate (almost) any type of PC-based work, and being a trusted hardware device, also bypass detection algorithms for software-based-automation-tools such as [**AutoIt**](https://www.autoitscript.com/site/) and [**Power-Automate**](https://www.microsoft.com/en-us/power-platform/products/power-automate). A Visual Studio C# mimic of the Touch macropad, with additional [**configuration**](https://github.com/TobiasVanDyk/PicoTouchMacroPad/tree/main/Serial2PicoApp/Exercise2.pdf) and [**control functions**](https://github.com/TobiasVanDyk/PicoTouchMacroPad/tree/main/Serial2PicoApp/Exercise1.pdf), is also in [**development**](https://github.com/TobiasVanDyk/PicoTouchMacroPad/tree/main/Serial2PicoApp), as shown below in images 4 to 7. The PC application showcases the Pico MacroPad’s [**nKeys multiple indirection capability**](https://github.com/TobiasVanDyk/PicoTouchMacroPad/tree/main/Serial2PicoApp/Five-Macro-Types-with-Label-Changes.pdf) via its automatic application-switching control. A wide range of plug-in modules will be added in the future, and the first three of these, namely a macropad and PC App set of functions to control and configure CircuitPython devices, multiple I²C RGB rotary encoders, and three types of Microchip I²C GPIO expanders, have been completed.<br> 
 
