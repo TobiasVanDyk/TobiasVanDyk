@@ -10,8 +10,11 @@
 
 <img src="images/PCBWay.png" height="24"/> The Chinese PCB and Prototyping manufacturing giant <img src="images/panda.png" height="20"/> [**PCBWay**](https://www.pcbway.com/) kindly supplied me with the PCB for a [**Princeton PT2313 ATmega328 controlled pre-amplifier**](https://www.pcbway.com/project/shareproject/More_Bass_Treble_and_Volume_With_PT2313_DSP_a52edf95.html) featured on their [**Shared Projects**](https://www.pcbway.com/project/shareproject/) section. The PCBs that I received are unrivaled in their manufacturing and finishing quality, and I will publish the details of my modified version of the pre-amp, which will use a touch-control LCD and a Arduino Nano R4, as soon as it had been completed. I received the PCB within one week of ordering, and their delivery partner handled all the import and customs arrangements, swiftly and efficiently. Their support staff guided me throughout the whole process, from start to finish, in a a friendly and professional way. 
 
-**Perfect right-click menu Microsoft** I am now ready to use Windows 11 all-day-every-day-and-night. 
-<p align="left"><img src="images/Perfect-Microsoft.jpg" height="148" /></p>
+**Perfect right-click menu Microsoft** I am now ready to use Windows 11 all-day-every-day-and-night. On the left is the new Windows 11 right-click-sendto-menu and on the right my existing Windows 10 right-click-sendto-menu which explains why a *missing send-to in Windows 11 was a deal-breaker* for me.
+<p align="left">
+<img src="images/Perfect-Microsoft.jpg" height="138" />
+<img src="images/Win10-SendTo.jpg" height="138" />
+</p>
 
 ### Use a programmable MacroPad to avoid being fired!
 
